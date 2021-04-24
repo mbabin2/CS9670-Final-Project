@@ -1,0 +1,28 @@
+species,type1,type2,hp,attack,defense,spattack,spdefense,speed,move1,move2,move3,move4
+Bulbasaur,Grass,Poison,45,49,49,65,65,45,tackle,vine whip,none,none
+Charmander,Fire,none,39,52,43,60,50,65,scratch,ember,none,none
+Squirtle,Water,none,44,48,65,50,64,43,tackle,water gun,none,none
+Pidgey,Normal,Flying,40,45,40,35,35,56,tackle,gust,none,none
+Rattata,Normal,none,30,56,35,25,35,72,tackle,bite,none,none
+Ekans,Poison,none,35,60,44,40,54,55,tackle,poison sting,none,none
+Pikachu,Electric,none,35,55,40,50,50,90,tail whip,thunder shock,none,none
+Sandshrew,Ground,none,50,75,85,20,30,40,scratch,sand attack,none,none
+Dratini,Dragon,none,41,64,45,50,50,50,tackle,dragon rage,none,none
+Jigglypuff,Normal,Fairy,115,45,20,45,25,20,pound,none,none,none
+Diglett,Ground,none,10,55,25,35,45,95,scratch,sand attack,none,none
+Poliwag,Water,none,40,50,40,40,40,90,tackle,water gun,none,none
+Abra,Psychic,none,25,20,15,105,55,90,psyshock,none,none,none
+Clefairy,Fairy,none,70,45,48,60,65,35,pound,none,none,none
+Zubat,Poison,Flying,40,45,35,30,40,55,bite,wing attack,none,none
+Meowth,Normal,none,40,45,35,40,40,90,scratch,bite,none,none
+Mankey,Fighting,none,40,80,35,35,45,70,scratch,low kick,none,none
+Machop,Fighting,none,70,80,50,35,35,35,low kick,none,none,none
+Slowpoke,Water,Psychic,90,65,65,40,40,15,tackle,water gun,none,none
+Grimer,Poison,none,80,80,50,40,50,25,pound,mud slap,none,none
+Cubone,Ground,none,50,50,95,40,50,35,tail whip,tackle,none,none
+Horsea,Water,none,30,40,70,70,25,60,water gun,none,none,none
+Tauros,Normal,none,75,100,95,40,70,110,tackle,none,none,none
+Omanyte,Rock,Water,35,40,100,90,55,35,bite,water gun,none,none
+Lapras,Water,Ice,130,85,80,85,95,60,water gun,ice shard,none,none
+Jynx,Ice,Psychic,65,50,35,115,95,95,pound,ice shard,psyshock,none
+Gastly,Ghost,Poison,30,35,30,100,35,80,night shade,none,none,none

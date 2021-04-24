@@ -1,0 +1,21 @@
+move,type,dmg
+tackle,normal,40
+scratch,normal,40
+tail whip,normal,40
+pound,normal,40
+psyshock,psychic,40
+bite,dark,40
+low kick,fighting,40
+water gun,water,40
+night shade,ghost,40
+vine whip,grass,40
+ember,fire,40
+gust,flying,40
+poison sting,poison,40
+thunder shock,electric,40
+sand attack,ground,40
+dragon rage,dragon,40
+wing attack,flying,40
+mud slap,ground,40
+ice shard,ice,40
+none, na, 0
